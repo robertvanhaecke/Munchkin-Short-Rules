@@ -23,7 +23,7 @@
 ### Kick Open the Door
  - Draw a card from the door deck. 
  - If it's a monster - fight it. Then your turn ends. 
- - If it's a curse - it hits you. Then Look For Trouble or Loot the Room.
+ - If it's a trap - it hits you. Then Look For Trouble or Loot the Room.
  - If it's any other card - put it in your hand. Look For Trouble or Loot the Room.
 
 ### Look For Trouble or Loot the Room
@@ -35,7 +35,7 @@ If you did not fight a monster, choose one of these options:
 ### Charity
 When your turn ends, you must have no more than five cards in your hand. If you have more, choose to:
 
- - Play cards until you're down to five (curses, items etc.)
+ - Play cards until you're down to five (traps, items etc.)
  - Give cards to the lowest level player until you're down to five cards. If you're the lowest level player, discard cards until you're down to five.
 
 ## Combat
@@ -51,6 +51,7 @@ When your turn ends, you must have no more than five cards in your hand. If you 
  - If you cannot defeat the monster(s), you both have to Run Away.
 
 ### Running Away
+ - You may runaway from all monsters by discarding an Ally instead of rolling to Run Away.
  - Roll the dice. If you get a 5 or more, you escape. If not, read the monster card and do what the "Bad Stuff" is. 
  - You have to Run Away from each separate monster (roll for each monster).
 
@@ -61,14 +62,14 @@ When your turn ends, you must have no more than five cards in your hand. If you 
 - You can only carry one Big item.
 - You may not trade items from your hand - only from the table. Traded items must go on the table, too.
 
-## Curses
- - Curses in your hand can be played at any time on any player. 
- - The victim chooses what item a multiple-item curse applies to.
+## Traps
+ - Traps in your hand can be played at any time on any player. 
+ - The victim chooses what item a multiple-item trap applies to.
  
 ## Death
- - If you die, you lose everything except for your level, curses on you, your class and your race.
+ - If you die, you lose everything except for your level, traps on you, your affiliation and your powers.
  - Put every other card you have on the table face up.
- - The other players each pick items, until everything is gone. The highest level players pick first.
+ - The other players each pick  one item. The highest level players pick first.
  - On your next turn, draw four cards from each deck, like when the game began.
 
 ## General Rules
