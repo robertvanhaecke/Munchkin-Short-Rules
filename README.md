@@ -1,6 +1,6 @@
 ![Short Rules for Munchkin](Images/README.png)
 
-The rules to the Munchkin Card Game in a shorter format than the original rules. Written in Markdown.
+The rules to the Munchkin Marvel Edition Card Game in a shorter format than the original rules. Written in Markdown.
 
 The short rules can be found [here](RULES.md).
 
