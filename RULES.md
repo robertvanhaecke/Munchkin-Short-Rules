@@ -9,7 +9,7 @@
 ### Cards
 - Item cards: Items have a price at the bottom of the card and "_+ some-number_" at the top of the card. 
 - Monster cards: Monster cards have a level and name at the top of the card and "_some-number Treasures_" at the bottom. 
-- Trap cards: Curse cards have "_Trap!_" at the top of the card.
+- Trap cards: Trap cards have "_Trap!_" at the top of the card.
 - Ally cards: Ally cards have "ally" at the top of the card.
 - Affiliation cards: Affiliation cards have "affiliation" in the middle of the card.
 
@@ -58,9 +58,9 @@ When your turn ends, you must have no more than five cards in your hand. If you 
 
 ## Items
 - Items are not equipped when turned sideways on the table. You can only equip when not in combat. 
-- You can only carry one type of item (headgear, armor etc.)
+- You can only carry one type of item (headgear, armor etc.), except for two 1-hand items.
+- You can use the cheat card to carry an item that you can't carry. (A second headgear, a second armor, ...)
 - Selling items for 1000 Gold gets you a level.
-- You can only carry one Big item.
 - You may not trade items from your hand - only from the table. Traded items must go on the table, too.
 
 ## Traps
