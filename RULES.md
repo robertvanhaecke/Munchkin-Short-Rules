@@ -12,6 +12,7 @@
 - Trap cards: Trap cards have "_Trap!_" at the top of the card.
 - Ally cards: Ally cards have "ally" at the top of the card.
 - Affiliation cards: Affiliation cards have "affiliation" in the middle of the card.
+- Power cards: Power cards have "Power" at the top of the card right under its bonus. You may have as many powers as you want, as long as the total rank does not exceed your level.
 
 ## Playing
 
@@ -43,7 +44,11 @@ When your turn ends, you must have no more than five cards in your hand. If you 
  - If you and the monster are tied, or the monster has more than you, you lose. Ask for help, or try to run away. 
  - If more monsters are in the battle, beat their total strength. You can defeat one and try to Run Away from the other, though. 
  - If you are going to kill the monster, the others get 2.6 seconds time to speak up and work against you.
- 
+
+### Treasures
+- Treasure cards cannot be played during combat, unless the card(s) says so.
+- Treasure cards can be played as soon as you get it.
+
 ### Asking For Help
  - Only one player can help you if you cannot defeat a monster by yourself.
  - Players will want some of the treasure if they help. Agree on who gets what and who picks first before helping. 
@@ -81,6 +86,4 @@ When your turn ends, you must have no more than five cards in your hand. If you 
 - At any time you can: Discard a affiliation or ally, play a "Go Up a Level" card or trap.
 - If you are not in combat, you are able to: Trade items, change equipped items, play a card you just received.
 - On your turn you can: Play a new affiliation or ally card (any time), sell items for levels (except when you are in combat) and play items.
-- Treasure cards cannot be played during combat, unless the card(s) says so.
 - "Go Up A Level" cards can be used on any player.
-- If an undead monster is in battle, any player can add another undead monster to the battle.
