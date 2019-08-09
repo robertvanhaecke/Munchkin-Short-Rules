@@ -16,7 +16,7 @@
 ## Playing
 
 ### Starting the Game
-- If you have any cards in your hand that are either race or class cards, play them immediately and gain their abilities.
+- If you have any cards in your hand that are either affiliation or ally cards, play them immediately and gain their abilities.
 - If you have any item cards and want to equip them you can also do so now.
 - Roll the dice. Decide who starts from the die rolls.
 
@@ -42,7 +42,8 @@ When your turn ends, you must have no more than five cards in your hand. If you 
  - If your level plus bonuses add up to more than the monster, you win. You only get level(s) from **killing** monster(s), not making them disappear etc. 
  - If you and the monster are tied, or the monster has more than you, you lose. Ask for help, or try to run away. 
  - If more monsters are in the battle, beat their total strength. You can defeat one and try to Run Away from the other, though. 
-
+ - If you are going to kill the monster, the others get 2.6 seconds time to speak up and work against you.
+ 
 ### Asking For Help
  - Only one player can help you if you cannot defeat a monster by yourself.
  - Players will want some of the treasure if they help. Agree on who gets what and who picks first before helping. 
@@ -69,18 +70,17 @@ When your turn ends, you must have no more than five cards in your hand. If you 
 ## Death
  - If you die, you lose everything except for your level, traps on you, your affiliation and your powers.
  - Put every other card you have on the table face up.
- - The other players each pick  one item. The highest level players pick first.
+ - The other players each pick one item. The highest level players pick first.
  - On your next turn, draw four cards from each deck, like when the game began.
 
 ## General Rules
 
-- Cards in front of you are in play (race(s), class(es) curses, items etc.) When a card has been played it cannot be taken back into your hand.
+- Cards in front of you are in play (affiliations, allies, traps, items etc.) When a card has been played it cannot be taken back into your hand.
 - You can **only** reach level 10 by killing a monster. 
 - You can never have a lower level than 1.
-- At any time you can: Discard a class or race, play a "Go Up a Level" card, Hireling or curse.
+- At any time you can: Discard a affiliation or ally, play a "Go Up a Level" card or trap.
 - If you are not in combat, you are able to: Trade items, change equipped items, play a card you just received.
-- On your turn you can: Play a new class or race card (any time), sell items for levels (except when you are in combat) and play items.  
-- Super Munchkin and Half-Breeds do not suffer penalties for either race/class they are. 
+- On your turn you can: Play a new affiliation or ally card (any time), sell items for levels (except when you are in combat) and play items.
 - Treasure cards cannot be played during combat, unless the card(s) says so.
 - "Go Up A Level" cards can be used on any player.
 - If an undead monster is in battle, any player can add another undead monster to the battle.
